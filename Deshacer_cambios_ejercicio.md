@@ -7,7 +7,7 @@
 
 - Clonar el repo con el siguiente comando
 ```
-git clone https://github.com/ivangaray101/cursoGIT.git
+git clone https://github.com/mlucyy/cursoGIT.git
 ```
 - Ir a la rama *simuladores-ejercicio*
 ```

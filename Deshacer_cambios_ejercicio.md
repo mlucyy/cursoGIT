@@ -11,7 +11,7 @@ git clone https://github.com/mlucyy/cursoGIT.git
 ```
 - Ir a la rama *simuladores-ejercicio*
 ```
-git checkout origin/simuladores-ejercicio
+git checkout simuladores-ejercicio
 ```
 - Mirar los commits que hay
 - Borrar todo el contenido que hay en *frases.txt* y guardarlo. Sin hacer commit
@@ -20,7 +20,7 @@ git checkout origin/simuladores-ejercicio
 <br/><br/>
 <details>
     <summary>Spoiler warning</summary>
-Como no hicimos commits, los cambios aún están en nuestro *working directory*, por lo que debemos hacer un
+Como no hicimos commits, los cambios aún están en nuestro *working* *directory*, por lo que debemos hacer un
   
     git restore frases.txt
     
@@ -39,7 +39,7 @@ Como es una rama compartida e hicimos un commit, si hacemos un *reset* vamos a b
   
     git revert <commit-hash>
 
-Recordemos que el commit hash son los caractéres alfanuméricos que aparecen cuando hacemos *git log*
+Recordemos que el commit hash son los caractéres alfanuméricos que aparecen cuando hacemos *git* *log*
     
 De esta forma, deshacemos los cambios y volvemos al último commit
 </details>
@@ -62,7 +62,7 @@ git reset --soft <commit-hash>
 git reset --hard <commit-hash>
 ```
 
-Recordemos que el commit hash son los caractéres alfanuméricos que aparecen cuando hacemos *git log*
+Recordemos que el commit hash son los caractéres alfanuméricos que aparecen cuando hacemos *git* *log*
     
 De esta forma, deshacemos los cambios y volvemos al primer commit
 </details>

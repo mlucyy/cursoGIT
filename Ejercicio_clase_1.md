@@ -4,7 +4,7 @@
 
 - Crear una nueva carpeta en tu directorio local llamada “mejores_peliculas_2023”.
 
-- Inicializar un nuevo repa dentro de dicha carpeta. (Asegurate de chequear que ya no haya un repo dentro).
+- Inicializar un nuevo repao dentro de dicha carpeta. (Asegurate de chequear que ya no haya uno dentro).
 
 - Crear un nuevo archivo “oppenheimer.txt”.
 
@@ -42,7 +42,7 @@
 
 - Hacer un commit de dichos cambios con un mensaje acorde.
 
-- Modificar el archivo barbie.txt.
+- Modificar el archivo patronus.txt.
 
 - Crear otra rama desde main. 
 
